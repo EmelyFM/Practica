@@ -1,0 +1,2 @@
+# Carpeta interna: no se sirve directamente por Apache.
+Require all denied
