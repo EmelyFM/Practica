@@ -3,7 +3,7 @@ class Conexion {
     private string $host = "db.updrkugocmgyyeaauwue.supabase.co";
     private string $port = "5432";
     private string $user = "postgres";
-    private string $pass = "TU_CONTRASENA_AQUI"; // Coloca tu contraseña real de Supabase
+    private string $pass = "1234567891"; // Coloca tu contraseña real de Supabase
     private string $db   = "postgres";
     
     protected ?PDO $conexion = null;
